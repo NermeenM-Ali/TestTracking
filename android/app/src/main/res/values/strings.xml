@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestNativeModule</string>
+    <string name="google_api_key">{{AIzaSyDwNskRLBN-UlqE4V6qHI8rkd_kJ-Uvnz4}}</string>
+</resources>
